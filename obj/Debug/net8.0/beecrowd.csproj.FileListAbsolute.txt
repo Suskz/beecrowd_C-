@@ -12,3 +12,4 @@ c:\Users\Susk\Documents\beecrowd\obj\Debug\net8.0\refint\beecrowd.dll
 c:\Users\Susk\Documents\beecrowd\obj\Debug\net8.0\beecrowd.pdb
 c:\Users\Susk\Documents\beecrowd\obj\Debug\net8.0\beecrowd.genruntimeconfig.cache
 c:\Users\Susk\Documents\beecrowd\obj\Debug\net8.0\ref\beecrowd.dll
+C:\Users\Susk\Documents\beecrowd\obj\Debug\net8.0\beecrowd.sourcelink.json
