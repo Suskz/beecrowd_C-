@@ -6,8 +6,8 @@ The input file contains 2 integer numbers.
 Output
 Print the message "PROD" and PROD according to the following example, with a blank space before and after the equal signal.*/
 
-var a = Convert.ToInt32(Console.ReadLine());
+/*var a = Convert.ToInt32(Console.ReadLine());
 var b = Convert.ToInt32(Console.ReadLine());
 var PROD = a*b;
 
-Console.WriteLine("PROD = " + PROD);
+Console.WriteLine("PROD = " + PROD);*/
