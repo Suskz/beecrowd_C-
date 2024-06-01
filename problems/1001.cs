@@ -8,5 +8,6 @@ Print the letter X (uppercase) with a blank space before and after the equal sig
 
 /*int A = Convert.ToInt32(Console.ReadLine());
 int B = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("X = " + (A+B));*/
+int X = A+B;
+Console.WriteLine("X = " + X);*/
 
