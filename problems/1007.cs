@@ -6,9 +6,9 @@ The input file contains 4 integer values.
 Output
 Print DIFERENCA (DIFFERENCE in Portuguese) with all the capital letters, according to the following example, with a blank space before and after the equal signal.*/
 
-var A = Convert.ToInt32(Console.ReadLine());
+/*var A = Convert.ToInt32(Console.ReadLine());
 var B = Convert.ToInt32(Console.ReadLine());
 var C = Convert.ToInt32(Console.ReadLine());
 var D = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("DIFERENCA = " + ((A * B) - (C * D)));
+Console.WriteLine("DIFERENCA = " + ((A * B) - (C * D)));*/
