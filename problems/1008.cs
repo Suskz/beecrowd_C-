@@ -8,7 +8,7 @@ The input file contains 2 integer numbers and 1 value of floating point, represe
 Output
 Print the number and the employee's salary, according to the given example, with a blank space before and after the equal signal.*/
 
-using System.Globalization;
+/*using System.Globalization;
 var number = Convert.ToInt32(Console.ReadLine());
 var hours = Convert.ToInt32(Console.ReadLine());
 var salary = Convert.ToDouble(Console.ReadLine(), CultureInfo.CreateSpecificCulture("en-US"));
@@ -17,4 +17,4 @@ salary = hours * salary;
 
 
 Console.WriteLine("NUMBER = " + number);
-Console.WriteLine("SALARY = U$ " + salary.ToString("F2", CultureInfo.CreateSpecificCulture("en-US")));
+Console.WriteLine("SALARY = U$ " + salary.ToString("F2", CultureInfo.CreateSpecificCulture("en-US")));*/
