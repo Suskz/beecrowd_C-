@@ -18,6 +18,4 @@ var productsold = Convert.ToDouble(Console.ReadLine(), CultureInfo.CreateSpecifi
 var percent = (productsold * 15) / 100;
 var newsalary = salary + percent;
 
-
-Console.WriteLine(percent);
 Console.WriteLine("TOTAL = R$ " + newsalary.ToString("F2", CultureInfo.CreateSpecificCulture("en-US")));*/
