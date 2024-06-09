@@ -8,7 +8,7 @@ The input file contains two lines of data. The first one contains two double val
 Output
 Calculate and print the distance value using the provided formula, with 4 digits after the decimal point.*/
 
-using System.Globalization;
+/*using System.Globalization;
 
 double x1 = Convert.ToDouble(Console.ReadLine());
 double y1 = Convert.ToDouble(Console.ReadLine());
@@ -17,4 +17,4 @@ double y2 = Convert.ToDouble(Console.ReadLine());
         
 double distancia = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
 
-Console.WriteLine(distancia.ToString("F4", CultureInfo.InvariantCulture));
+Console.WriteLine(distancia.ToString("F4", CultureInfo.InvariantCulture));*/
