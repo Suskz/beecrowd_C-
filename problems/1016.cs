@@ -10,8 +10,8 @@ The input file contains 1 integer value.
 Output
 Print the necessary time followed by the message "minutos" that means minutes in Portuguese.*/
 
-int time, km;
+/*int time, km;
 km = 2;
 int distancia = Convert.ToInt32(Console.ReadLine());
 time = distancia * km;
-Console.WriteLine(time + " minutos");
+Console.WriteLine(time + " minutos");*/
