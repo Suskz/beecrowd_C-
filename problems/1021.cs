@@ -6,7 +6,7 @@ The input file contains a value of floating point N (0 ≤ N ≤ 1000000.00).
 Output
 Print the minimum quantity of banknotes and coins necessary to change the initial value, as the given example.*/
 
-using System.Globalization;
+/*using System.Globalization;
 
 double val = Convert.ToDouble(Console.ReadLine(), CultureInfo.InvariantCulture);
 double[] mont = { 100, 50, 20, 10, 5, 2, 1, 0.5, 0.25, 0.1, 0.05, 0.01 };
@@ -26,4 +26,4 @@ for (int i = 6; i < mont.Length; i++){
     notas = (int)(val / mont[i]);
     Console.WriteLine(notas + "moeda(s) de R$ " + mont[i].ToString("F2", CultureInfo.InvariantCulture));
     val -= mont[i] * notas;
-}
+}*/
